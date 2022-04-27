@@ -11,7 +11,13 @@ import SwiftUI
 struct AnimationsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          //  ContentView()
+          //  Implicit_Animations()
+          //  AnimatingBindings()
+          //  RotateAnimation()
+         //   AnimationStack()
+          //  AnimatingGestures()
+            Transitions()
         }
     }
 }
