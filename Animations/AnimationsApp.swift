@@ -17,7 +17,9 @@ struct AnimationsApp: App {
           //  RotateAnimation()
          //   AnimationStack()
           //  AnimatingGestures()
-            Transitions()
+          //  Transitions()
+            
+            ViewModifierAni()
         }
     }
 }

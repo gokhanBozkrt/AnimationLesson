@@ -17,6 +17,7 @@
 		F7619A44281993810048351C /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7619A43281993810048351C /* Transitions.swift */; };
 		F7EC561128195D13007BAA10 /* AnimatingBindings.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7EC561028195D13007BAA10 /* AnimatingBindings.swift */; };
 		F7EC561328196304007BAA10 /* RotateAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7EC561228196304007BAA10 /* RotateAnimation.swift */; };
+		F7F43F192819C19F00036F42 /* ViewModifierAni.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F43F182819C19F00036F42 /* ViewModifierAni.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		F7619A43281993810048351C /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		F7EC561028195D13007BAA10 /* AnimatingBindings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingBindings.swift; sourceTree = "<group>"; };
 		F7EC561228196304007BAA10 /* RotateAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateAnimation.swift; sourceTree = "<group>"; };
+		F7F43F182819C19F00036F42 /* ViewModifierAni.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierAni.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				F7619A3F2819880C0048351C /* AnimationStack.swift */,
 				F7619A4128198BFF0048351C /* AnimatingGestures.swift */,
 				F7619A43281993810048351C /* Transitions.swift */,
+				F7F43F182819C19F00036F42 /* ViewModifierAni.swift */,
 				F73CDC32281731B500E0D68E /* Assets.xcassets */,
 				F73CDC34281731B500E0D68E /* Preview Content */,
 			);
@@ -161,6 +164,7 @@
 				F7619A4228198BFF0048351C /* AnimatingGestures.swift in Sources */,
 				F73CDC31281731B300E0D68E /* ContentView.swift in Sources */,
 				F73CDC3D2817360100E0D68E /* Implicit Animations.swift in Sources */,
+				F7F43F192819C19F00036F42 /* ViewModifierAni.swift in Sources */,
 				F7EC561328196304007BAA10 /* RotateAnimation.swift in Sources */,
 				F73CDC2F281731B300E0D68E /* AnimationsApp.swift in Sources */,
 			);
